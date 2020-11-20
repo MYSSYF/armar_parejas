@@ -1,1 +1,1 @@
-# arma_parejas
+# armar_parejas
